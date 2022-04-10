@@ -1,3 +1,10 @@
-# 🧠 Página de Login
+# ✔️ Desafio Layout de Login
 
-- 👻 Skills: HTML,CSS, JAVASCRIPT, PHP E BOOTSTRAP 5.
+🗃️ Repositório criado para desenvolver página de login, registro.
+
+- 🚩 Skills: 
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- BOOTSTRAP 5
